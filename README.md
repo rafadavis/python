@@ -1,7 +1,8 @@
 # Introduction to Python
 
+Python is a general-purpose programming language that is suitable for a wide variety of core tasks in the digital humanities. Learning Python fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts.
 
-Python is a high-level programming language widely used in both industry and the academy. It is particularly suited to working with textual and numeric data, and has a strong developer community that enables Python programmers to leverage code that has already been written to solve many problems. Python emphasizes readability and comprehensibility, and its straightforward syntax makes it an accessible first programming language.
+This session in Python fundamentals introduces essential computing concepts such as data types, iteration, input/output, control structures, and importing libraries. This lesson also serves as a basis for later learning in areas such as databases, natural language processing, and working with APIs.
 
 [Getting set up](sections/installation.md)  
 [Interacting with Python](sections/repl.md)  
@@ -15,6 +16,10 @@ Python is a high-level programming language widely used in both industry and the
 [A little motivation](sections/motivate.md)  
 [Working with files](csv.md)  
 [Python resources](sections/resources.md)  
+
+-----
+
+Session Leader: Patrick Smyth
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
