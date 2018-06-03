@@ -6,7 +6,7 @@ So far, you've interacted with Python one line at a time in the REPL. For the re
 
 ### Your first script
 
-Open your text editor of choice (such as Sublime) and create a new file with this line:
+Open your text editor of choice (such as VS Code) and create a new file with this line:
 
     print("Hello world!")
 	
