@@ -1,4 +1,4 @@
-[<<< Previous](motivation.md) | [Back to beginning](../README.md)
+[<<< Previous](introspection.md) | [Back to beginning](../README.md)
 
 # Python resources
 
@@ -10,4 +10,4 @@
 
 [CodeAcademy: Python](http://www.codecademy.com/en/tracks/python) - An interactive tutorial for learning the basics of Python. (I recommend trying the books above first, as learning to use a text editor or IDE such as IPython or IDLE is an important part of the learning curve.) A good supplemental resource. 
 
-[<<< Previous](motivation.md) | [Back to beginning](../README.md)
+[<<< Previous](introspection.md) | [Back to beginning](../README.md)
