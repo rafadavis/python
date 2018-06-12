@@ -4,6 +4,11 @@ Python is a general-purpose programming language that is suitable for a wide var
 
 This session in Python fundamentals introduces essential computing concepts such as data types, iteration, input/output, control structures, and importing libraries. This lesson also serves as a basis for later learning in areas such as databases, natural language processing, and working with APIs.
 
+[Get Started >>>](sections/installation.md)  
+[Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/python.md#python)
+
+-----
+
 [Getting set up](sections/installation.md)  
 [Interacting with Python](sections/repl.md)  
 [Types](sections/types.md)  
