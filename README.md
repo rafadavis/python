@@ -2,7 +2,14 @@
 
 Python is a general-purpose programming language that is suitable for a wide variety of core tasks in the digital humanities. Learning Python fundamentals is a gateway to analyzing data, creating visualizations, composing interactive websites, scraping the internet, and engaging in distant reading of texts.
 
-This session in Python fundamentals introduces essential computing concepts such as data types, iteration, input/output, control structures, and importing libraries. This lesson also serves as a basis for later learning in areas such as databases, natural language processing, and working with APIs.
+By the end of this workshop, participants will:
+
+- Understand what Python is and, in general terms, what it can do.
+- Run Python programs, both by interacting directly with the interpreter and by preparing and running scripts.
+- Distinguish among five core data types—integers, floats, strings, booleans, and lists.
+- Become familiar with core programming concepts, including variables, loops, and conditionals.
+- Engage with error output and use the internet and documentation to independently research language features.
+- Learn how to find and import code from external sources to solve more complex problems.
 
 [Get Started >>>](sections/repl.md)  
 [Glossary >>>](https://github.com/DHRI-Curriculum/glossary/blob/master/sections/python.md#python)

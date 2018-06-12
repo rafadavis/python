@@ -55,6 +55,7 @@ What if we want to print out each item in the list separately? For that, we'll n
 ```python
 flowers = ['rose', 'violet', 'buttercup']
 # print(flowers)
+
 for flower in flowers:
     print("My favorite flower is the", flower)
 ```
@@ -78,11 +79,11 @@ Here's a list of numbers:
 prime_numbers = [2, 3, 5, 7, 11]
 ```
 
-Write some code to print out the square of each of these numbers. The solution is [here](loop.py), but you're not allowed to look at it until you've tried to solve it yourself for 3.5 minutes. Seriously. That's 210 seconds.
+Write some code to print out the square of each of these numbers. Remember that the square of a number is that number times itself. The solution is [here](loop.py), but you're not allowed to look at it until you've tried to solve it yourself for 3.5 minutes. (Seriously! That's 210 seconds.)
 
 ## Advanced Challenge
 
-First, ignore this challenge because it's too hard. Next, look up string formatting on Google and use it to write a loop that gives the following output:
+First, ignore this challenge because it's too hard. Next, look up a new concept—"string formatting"—on Google and use it to write a loop that gives the following output:
 
 ```
 The square of 2 is 4.
