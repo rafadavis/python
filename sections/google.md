@@ -30,28 +30,15 @@ Even if you're a super rad Python programmer, you're not going to remember every
 
 Let's try the search term <a href="http://lmgtfy.com/?q=make+string+lowercase+Python" target="_blank"><code>make string lowercase Python</code></a>:
 
-
-<br><br>
-
 ![make string lower case Python Google search](google_search.png)  
-
-<br><br>
 
 Notice that the first result is from a site called Stack Overflow. This is a questions and answers site for programmers that usually has strong answers to questions about Python.
 
-<br><br>
-
 ![Google search results with stack overflow answer on top](google_result.png)  
-
-<br><br>
 
 On the Stack Overflow page, take a quick look at the question to make sure it's relevant to your problem. However, we need to scroll down to the answers to find what we're looking for:
 
-<br><br>
-
 ![stack overflow answer for making strings lowercase. the answer says to use string.lower()](stack_overflow.png)  
-
-<br><br>
 
 Also notice the snarky debate below! Another "feature" of Stack Overflow.
 

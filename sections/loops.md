@@ -10,7 +10,7 @@ Remember lists? They look like this:
 	
 For now, let's just create a list and print it out. Our script will look like this:
 
-```
+```python
 flowers = ['rose', 'violet', 'buttercup']
 print(flowers)
 ```
@@ -19,7 +19,7 @@ Save this to a new file called `loop.py` and run it with `python loop.py`. You s
 
 So far, we've only learned one function: `type()`. Let's try out another:
 
-```
+```python
 flowers = ['rose', 'violet', 'buttercup']
 # print(flowers)
 
@@ -36,18 +36,23 @@ Notice that, if you run the code above, you won't see the `flowers` list printed
 
 A useful property of a list is the list index. This allows you to pick out an item from within the list by a number starting from zero:
 
-	print(flowers[1]) # rose
-	print(flowers[1]) # violet
-	
+```python
+print(flowers[0]) # rose
+print(flowers[1]) # violet
+```
+Note that the first item in the list is item [0]. The second item is item [1]. That's because counting in Python, and in almost all programming languages, starts from 0.
+
 You can print out the last item in a list using negative numbers:
 
-	print(flowers[-1]) # buttercup
+```python
+print(flowers[-1]) # buttercup
+```
 
 ## Loops
 
 What if we want to print out each item in the list separately? For that, we'll need something called a loop:
 
-```
+```python
 flowers = ['rose', 'violet', 'buttercup']
 # print(flowers)
 for flower in flowers:
