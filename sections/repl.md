@@ -1,6 +1,6 @@
 [Next >>>](types.md)
 
-## Interacting with Python
+# Interacting with Python
 
 To start an interactive session with Python, open your terminal and type
 
@@ -25,7 +25,7 @@ Keep an eye on this, as a common early source of confusion is entering terminal 
 
 ### A Little Math
 
-Let's try a little math at the Python prompt:
+Let's try a little math at the Python prompt. In the example below, type the text that appears after the Python prompt (the `>>>`). The line below is the output that is returned. This will be a standard convention when giving examples using the Python prompt.
 
 ```
 >>> 2 + 3
