@@ -6,7 +6,9 @@
 
 Remember lists? They look like this:
 
-	flowers = ['rose', 'violet', 'buttercup']
+```python
+flowers = ['rose', 'violet', 'buttercup']
+```
 	
 For now, let's just create a list and print it out. Our script will look like this:
 
@@ -92,5 +94,24 @@ The square of 5 is 25.
 The square of 7 is 49.
 The square of 11 is 121.
 ```
+
+## A Note on Variable Names
+
+In this section, we've discussed flowers in the context of a list. But would a variable by any other name smell as sweet?
+
+Why do we use the variable name `flowers` in this section for our list of flower names? Why not just use the variable name `x`, or perhaps `f`?
+
+While the computer might not care if our list of flowers is called `x`, giving variables meaningful names makes a program considerably easier to read than it would be otheriwse. Consider this for loop:
+
+```python
+y = ['rose', 'violet', 'buttercup']
+
+for x in y:
+	print(x)
+```
+
+Which is easier to read, this for loop or the one used in the example?
+
+When variable names accurately reflect what they represent, and are therefore meaningful, we call them "semantic." Always try to create semantic variable names whenever possible.
 
 [<<< Previous](errors.md) | [Next >>>](conditionals.md)
