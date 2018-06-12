@@ -1,10 +1,10 @@
 [<<< Previous](input.md) | [Next >>>](motivate.md)
 
-## Finding Answers with Google
+# Finding Answers with Google
 
 Our weather app is working pretty well, but you may have noticed that it's case sensitive:
 
-```
+```python
 What is the weather like today? snowy
 Bring your wooly muffler
 What is the weather like today? SNOWY
@@ -13,7 +13,7 @@ I don't know what you should bring! I'm just a little program...
 
 How could we fix our program to handle cases like this? We could add a bunch of new `elif` statements, like this:
 
-```
+```python
 [...]
 elif weather == "snowy":
 	print("Bring your wooly muffler")
@@ -24,7 +24,7 @@ elif weather == "SNOWY":
 
 This is a lot of work, and it's a pretty ugly solution. If we wanted to add more cases to our program, we would have to write them in twice every time, and it still wouldn't fix inputs like `Snowy`. The best way to improve our program would be to convert the input to lower case before we send it to our `if/else` block.
 
-### Googling for answers
+## Googling for answers
 
 Even if you're a super rad Python programmer, you're not going to remember every function name or how to do things you might not have touched in awhile. One thing programmers get very good at is googling for answers. In fact, this is arguably the most important skill in modern-day programming. So let's use Google to find out how to convert strings to lower case.
 
@@ -42,7 +42,7 @@ On the Stack Overflow page, take a quick look at the question to make sure it's 
 
 Also notice the snarky debate below! Another "feature" of Stack Overflow.
 
-### Implementing our answer
+## Implementing our answer
 
 According to this answer, we can make a string lowercase by adding `.lower()` to the end of it, like this:
 
@@ -53,7 +53,7 @@ According to this answer, we can make a string lowercase by adding `.lower()` to
 
 OK, that seems to work, even if we don't really know what's going on with that dot. Let's incorporate this transformation into our weather app:
 
-```
+```python
 while True:
     weather = input("What is the weather like today? ")
     weather = weather.lower()

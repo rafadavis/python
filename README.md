@@ -26,7 +26,6 @@ By the end of this workshop, participants will:
 [Input](sections/input.md)  
 [Using Google](sections/google.md)  
 [A little motivation](sections/motivate.md)  
-[Working with files](csv.md)  
 [Python resources](sections/resources.md)  
 
 -----
