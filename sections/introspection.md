@@ -1,4 +1,5 @@
-[<<< Previous](motivation.md) | [Next >>>](resources.md)
+[<<< Previous](motivate.md) | [Next >>>](resources.md)
+
 # Objects in Python
 
 Objects in Python (and other programming languages) are basically containers that can hold data and/or functions inside them. When a function is inside an object, we usually call the function a "method." When data is inside an object, we usually call it an "attribute." The terminology isn't that important, though. What we do need to know is that you can access these "methods" and "attributes" with a `.` (a dot or period).
@@ -38,4 +39,4 @@ The above output shows all the methods and attributes available to Python string
 1. You can also use `dir()` to see what functions are available from Python libraries that you import. Try importing the random library again and see what you get when you enter `dir(random)`.
 2. Try entering other objects based on Python types we've already learned to the `dir()` function. For example, you might try `dir([1, 2, 3])` to see what methods are available when using lists.
 
-[<<< Previous](motivation.md) | [Next >>>](resources.md)
+[<<< Previous](motivate.md) | [Next >>>](resources.md)
