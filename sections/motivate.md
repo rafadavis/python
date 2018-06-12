@@ -46,4 +46,15 @@ The `random.choice` function chooses a random item from a list and returns it. T
 
 2. (optional) As with our weather app, this positive saying generator could be improved by making it so the program doesn't have to run again every time to get new output. Add a while loop for the final version. You can see a solution [here](motivation.py).
 
+# Challenge: library research
+
+As we've learned, libraries are Python code written by others that can be pulled into your program, allowing you to use that functionality. In this challenge, do a little research on Python libraries that might solve a problem for you or address a domain that you're interested in.
+
+The best way to find a Python library in a particular area is to do a Google search. For example, if you wanted to find Python libraries for dealing with cleaning up HTML files, you might search one of these:
+
+	working with html python library
+	html parser python library
+	
+In your research, you may also want to look at the libraries that come with Python. You can find a list of libraries in these libraries [here](https://docs.python.org/3/py-modindex.html).
+
 [<<< Previous](google.md) |  [Next >>>>](resources.md)

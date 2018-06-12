@@ -101,7 +101,7 @@ In this section, we've discussed flowers in the context of a list. But would a v
 
 Why do we use the variable name `flowers` in this section for our list of flower names? Why not just use the variable name `x`, or perhaps `f`?
 
-While the computer might not care if our list of flowers is called `x`, giving variables meaningful names makes a program considerably easier to read than it would be otheriwse. Consider this for loop:
+While the computer might not care if our list of flowers is called `x`, giving variables meaningful names makes a program considerably easier to read than it would be otherwise. Consider this for loop:
 
 ```python
 y = ['rose', 'violet', 'buttercup']
