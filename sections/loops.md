@@ -1,4 +1,4 @@
-[<<< Previous](run.md) | [Next >>>](conditionals.md)
+[<<< Previous](errors.md) | [Next >>>](conditionals.md)
 
 # Lists and Loops
 
@@ -93,4 +93,4 @@ The square of 7 is 49.
 The square of 11 is 121.
 ```
 
-[<<< Previous](run.md) | [Next >>>](conditionals.md)
+[<<< Previous](errors.md) | [Next >>>](conditionals.md)

@@ -20,6 +20,7 @@ By the end of this workshop, participants will:
 [Types](sections/types.md)  
 [Variables](sections/variables.md)  
 [Running scripts](sections/run.md)  
+[Errors in Python](sections/errors.md)  
 [Lists and Loops](sections/loops.md)  
 [Conditionals](sections/conditionals.md)  
 [Input](sections/input.md)  
